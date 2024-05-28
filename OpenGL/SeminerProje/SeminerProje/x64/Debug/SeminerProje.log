@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Mirac\Desktop\OpenGL\SeminerProje\Main.cpp(17,37): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+C:\Users\Mirac\Desktop\OpenGL\SeminerProje\Main.cpp(18,36): warning C4305: 'bağımsız değişken': 'double' iken 'GLfloat' olarak kesildi
+  SeminerProje.vcxproj -> C:\Users\Mirac\Desktop\OpenGL\SeminerProje\x64\Debug\SeminerProje.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
