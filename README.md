@@ -1,2 +1,2 @@
-# Seminer-OpenGL_C-
+# Seminer-OpenGL_Cpp
 Seminer dersinin kod kısmı
